@@ -1,0 +1,15 @@
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\bin\Debug\net6.0\Examples_004.exe
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\bin\Debug\net6.0\Examples_004.deps.json
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\bin\Debug\net6.0\Examples_004.runtimeconfig.json
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\bin\Debug\net6.0\Examples_004.dll
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\bin\Debug\net6.0\Examples_004.pdb
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\obj\Debug\net6.0\Examples_004.csproj.AssemblyReference.cache
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\obj\Debug\net6.0\Examples_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\obj\Debug\net6.0\Examples_004.AssemblyInfoInputs.cache
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\obj\Debug\net6.0\Examples_004.AssemblyInfo.cs
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\obj\Debug\net6.0\Examples_004.csproj.CoreCompileInputs.cache
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\obj\Debug\net6.0\Examples_004.dll
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\obj\Debug\net6.0\refint\Examples_004.dll
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\obj\Debug\net6.0\Examples_004.pdb
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\obj\Debug\net6.0\Examples_004.genruntimeconfig.cache
+C:\Users\Darya\Desktop\GeekBr\Examples\Examples_004\obj\Debug\net6.0\ref\Examples_004.dll
